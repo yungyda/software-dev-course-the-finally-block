@@ -27,9 +27,9 @@ Step 1: Debug Standard Exceptions
 
 Step 2: Add Input Validation and Custom Exceptions  
 - Validate:
-  • Missing file names → ReferenceError  
-  • Non-string file data → TypeError  
-  • Empty string data → generic Error
+  • Missing file names 
+  • Non-string file data  
+  • Empty string data 
 
 Step 3: Implement a `finally` Block  
 - Simulate releasing resources, regardless of whether an error occurred
